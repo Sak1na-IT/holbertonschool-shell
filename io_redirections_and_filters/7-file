@@ -1,2 +1,4 @@
 #!/bin/bash
-printf "Best School\n" > "*\\'\"Best School\"'\\*\$\?\*\*\*\*\*:)"
+# Script to create a file with special characters in its name containing "Best School"
+
+echo "Best School" > '*\\'"'"'Best School'"'"'\\*$\?\*\*\*\*\*:)'
